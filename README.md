@@ -17,5 +17,3 @@ The tangent method, also known as Newton's method, is an iterative algorithm tha
 ____
 
 In summary, the choice of a root-finding algorithm depends on the properties of the function, the required accuracy, and the available initial information. The bisection method is reliable but slow, the secant method is faster but less reliable, and the tangent method is the fastest but most sensitive to the initial estimate and the function's behavior.# non-linear-equations
-# non-linear-equations
-# non-linear-equations
